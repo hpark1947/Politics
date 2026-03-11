@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.aladin.co.kr)",
+      "WebFetch(domain:grayecon.com)",
+      "WebFetch(domain:windbook.blogspot.com)",
+      "WebFetch(domain:brunch.co.kr)",
+      "WebFetch(domain:lifeclub.org)",
+      "WebFetch(domain:www.futurekorea.co.kr)",
+      "WebFetch(domain:zeihan.com)",
+      "WebFetch(domain:static.dma.mil)",
+      "WebFetch(domain:namu.wiki)"
+    ]
+  }
+}
