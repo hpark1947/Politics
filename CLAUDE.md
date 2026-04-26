@@ -9,7 +9,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Structure
 
 - `guide.md` — 프로젝트 가이드 문서
-- `Prompts/` — 프롬프트 파일 디렉토리
+- `서적/` — 서적 분석 파일 디렉토리
 
 ## GitHub 한글 깨짐 대응
 
@@ -23,7 +23,7 @@ GitHub에서 한글 파일이 유니코드 이스케이프 시퀀스(예: `\354\
 
 ## 작업 규칙
 
-- 새 파일을 `Prompts/`에 작성하면 즉시 커밋·푸시하여 GitHub에 바로 반영할 것 (작업 완료를 기다리지 않음)
+- 새 파일을 `서적/`에 작성하면 즉시 커밋·푸시하여 GitHub에 바로 반영할 것 (작업 완료를 기다리지 않음)
 - 파일 내용 작성이 끝나면 다시 커밋·푸시하여 최종본 반영
 
 ## 참고
